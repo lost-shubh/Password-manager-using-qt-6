@@ -50,6 +50,82 @@ A complete password storing system built in C++ using Qt6 for the interface, SQL
 - AES-256 is used for all sensitive data (site, login, password, notes)
 - The master password is not stored; only its cryptographic hash and salt are saved
 - Key derivation uses a secure method to prevent brute-force attacks
+Since CMake is used to build your project, mention this clearly in the README and include a build section with specific CMake instructions. Here are the recommended additions and changes:
+
+***
+
+## Build Instructions
+
+This project uses CMake for cross-platform configuration and build automation.
+
+### Prerequisites
+
+- CMake (version 3.16 or newer recommended)
+- Qt6 (all required development libraries installed)
+- A C++17-compliant compiler
+- SQL library (like SQLite)
+- Git (for cloning, optional)
+
+### Building from Source
+
+1. Clone this repository:
+   ```bash
+   git clone <your_repo_url>
+   cd password-manager
+   ```
+2. Create a build directory and run CMake:
+   ```bash
+   mkdir build
+   cd build
+   cmake ..
+   ```
+   - You may need to set up the `CMAKE_PREFIX_PATH` to let CMake find your Qt6 installation, e.g.:
+     ```bash
+     cmake -DCMAKE_PREFIX_PATH=/path/to/Qt6/lib/cmake ..
+     ```
+3. Build the project:
+   ```bash
+   cmake --build .
+   ```
+4. Run the application:
+   ```bash
+   ./password-manager
+   ```
+
+For more details on building Qt6 CMake projects, see official [Qt documentation].[3]
+
+***
+
+Add this section to your README, ensuring users and collaborators can build your password manager easily using CMake and Qt6, regardless of OS.To accurately reflect that CMake is used for building, add a dedicated section to the README. Here’s how to integrate it:
+
+***
+
+## Building with CMake
+
+This project uses CMake for cross-platform builds and configuration.
+
+### Steps
+
+1. Ensure CMake (≥ 3.16) and Qt6 (plus SQL libraries) are installed.
+2. Clone the repository and open a terminal in the project directory.
+   git clone <your_repo_url>
+   cd password-manager
+
+3. Create a build directory and run:
+   ```sh
+   cmake -B build -S .
+   cmake --build build
+   ```
+   If Qt6 isn’t auto-detected, set its path:
+   ```sh
+   cmake -B build -S . -DCMAKE_PREFIX_PATH=/path/to/Qt6/lib/cmake
+   ```
+   mkdir build
+   cd build
+   cmake ..
+
+4. Run the resulting application from the `build` directory.
+
 
 ## Disclaimer
 
