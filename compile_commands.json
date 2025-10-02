@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/User/Desktop/PASSWORD-MANAGER/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/User/Desktop/PASSWORD-MANAGER/build -IC:/Users/User/Desktop/PASSWORD-MANAGER -IC:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/include -IC:/Users/User/Desktop/PASSWORD-MANAGER/src -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\password_manager_gui.dir\\password_manager_gui_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\build\\password_manager_gui_autogen\\mocs_compilation.cpp",
+  "file": "C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\build\\password_manager_gui_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\password_manager_gui.dir\\password_manager_gui_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/PASSWORD-MANAGER/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/User/Desktop/PASSWORD-MANAGER/build -IC:/Users/User/Desktop/PASSWORD-MANAGER -IC:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/include -IC:/Users/User/Desktop/PASSWORD-MANAGER/src -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\password_manager_gui.dir\\src\\main.cpp.obj -c C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\main.cpp",
+  "file": "C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\main.cpp",
+  "output": "CMakeFiles\\password_manager_gui.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/PASSWORD-MANAGER/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/User/Desktop/PASSWORD-MANAGER/build -IC:/Users/User/Desktop/PASSWORD-MANAGER -IC:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/include -IC:/Users/User/Desktop/PASSWORD-MANAGER/src -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\password_manager_gui.dir\\src\\Encryption.cpp.obj -c C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\Encryption.cpp",
+  "file": "C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\Encryption.cpp",
+  "output": "CMakeFiles\\password_manager_gui.dir\\src\\Encryption.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/PASSWORD-MANAGER/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/User/Desktop/PASSWORD-MANAGER/build -IC:/Users/User/Desktop/PASSWORD-MANAGER -IC:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/include -IC:/Users/User/Desktop/PASSWORD-MANAGER/src -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\password_manager_gui.dir\\src\\PasswordEntry.cpp.obj -c C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\PasswordEntry.cpp",
+  "file": "C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\PasswordEntry.cpp",
+  "output": "CMakeFiles\\password_manager_gui.dir\\src\\PasswordEntry.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/PASSWORD-MANAGER/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/User/Desktop/PASSWORD-MANAGER/build -IC:/Users/User/Desktop/PASSWORD-MANAGER -IC:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/include -IC:/Users/User/Desktop/PASSWORD-MANAGER/src -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\password_manager_gui.dir\\src\\PasswordManager.cpp.obj -c C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\PasswordManager.cpp",
+  "file": "C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\PasswordManager.cpp",
+  "output": "CMakeFiles\\password_manager_gui.dir\\src\\PasswordManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/PASSWORD-MANAGER/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/User/Desktop/PASSWORD-MANAGER/build -IC:/Users/User/Desktop/PASSWORD-MANAGER -IC:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/include -IC:/Users/User/Desktop/PASSWORD-MANAGER/src -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\password_manager_gui.dir\\src\\LoginDialog.cpp.obj -c C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\LoginDialog.cpp",
+  "file": "C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\LoginDialog.cpp",
+  "output": "CMakeFiles\\password_manager_gui.dir\\src\\LoginDialog.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/PASSWORD-MANAGER/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/User/Desktop/PASSWORD-MANAGER/build -IC:/Users/User/Desktop/PASSWORD-MANAGER -IC:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/include -IC:/Users/User/Desktop/PASSWORD-MANAGER/src -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\password_manager_gui.dir\\src\\MainWindow.cpp.obj -c C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\MainWindow.cpp",
+  "file": "C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\MainWindow.cpp",
+  "output": "CMakeFiles\\password_manager_gui.dir\\src\\MainWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Desktop/PASSWORD-MANAGER/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/User/Desktop/PASSWORD-MANAGER/build -IC:/Users/User/Desktop/PASSWORD-MANAGER -IC:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/include -IC:/Users/User/Desktop/PASSWORD-MANAGER/src -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\password_manager_gui.dir\\src\\AddEditDialog.cpp.obj -c C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\AddEditDialog.cpp",
+  "file": "C:\\Users\\User\\Desktop\\PASSWORD-MANAGER\\src\\AddEditDialog.cpp",
+  "output": "CMakeFiles\\password_manager_gui.dir\\src\\AddEditDialog.cpp.obj"
+}
+]

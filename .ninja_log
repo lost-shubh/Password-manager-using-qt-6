@@ -1,0 +1,14 @@
+# ninja log v6
+11	1535	7677531978900147	password_manager_gui_autogen/timestamp	a9285770c536a826
+11	1535	7677531978900147	password_manager_gui_autogen/mocs_compilation.cpp	a9285770c536a826
+11	1535	7677531978900147	C:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/timestamp	a9285770c536a826
+1633	6792	7677531980555250	CMakeFiles/password_manager_gui.dir/src/PasswordEntry.cpp.obj	efe8ec5ec3146c12
+11	1535	7677531978900147	C:/Users/User/Desktop/PASSWORD-MANAGER/build/password_manager_gui_autogen/mocs_compilation.cpp	a9285770c536a826
+1602	6853	7677531980233894	CMakeFiles/password_manager_gui.dir/src/Encryption.cpp.obj	c520166459a17b9
+1546	6893	7677531979688304	CMakeFiles/password_manager_gui.dir/password_manager_gui_autogen/mocs_compilation.cpp.obj	7108394680cbe409
+1667	7468	7677531980839391	CMakeFiles/password_manager_gui.dir/src/PasswordManager.cpp.obj	125d9e1ba3c510e9
+1740	11166	7677531981566021	CMakeFiles/password_manager_gui.dir/src/MainWindow.cpp.obj	1a43c676f41f1574
+1573	9439	7677531979917228	CMakeFiles/password_manager_gui.dir/src/main.cpp.obj	7bd58ad1f5684d3f
+1701	9734	7677531981228442	CMakeFiles/password_manager_gui.dir/src/LoginDialog.cpp.obj	6432079b1e6a76fe
+1874	10387	7677531982943488	CMakeFiles/password_manager_gui.dir/src/AddEditDialog.cpp.obj	9203f59b8855502d
+11166	11462	7677532075829426	password_manager_gui.exe	20ab35418b4d77ff
